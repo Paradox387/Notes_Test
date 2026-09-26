@@ -324,4 +324,3 @@ class _NoteEditorScreenState extends State<NoteEditorScreen> {
 }
 
 // ГИТ РАБОТАТЕ!!!!
-// Я ЗДЕСЬ НАСРАЛ
