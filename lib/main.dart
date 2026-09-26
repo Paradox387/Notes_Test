@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:intl/intl.dart';
+import 'package:intl/date_symbol_data_local.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:home_widget/home_widget.dart';
 import 'dart:convert';
 
 void main() {
@@ -306,3 +310,5 @@ class _NoteEditorScreenState extends State<NoteEditorScreen> {
     );
   }
 }
+
+// ГИТ РАБОТАТЕ!!!!
